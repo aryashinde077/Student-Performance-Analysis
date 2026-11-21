@@ -1,7 +1,7 @@
 # Student Performance Analysis
 
 ## Project Overview
-This project analyzes student academic performance using Python to identify patterns and understand factors affecting students' results.
+This project analyzes student academic performance using Python to identify patterns and understand factors affecting students results.
 
 ## Objectives
 - Analyze student performance.

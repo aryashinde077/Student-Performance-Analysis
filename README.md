@@ -1,30 +1,34 @@
-Student Performance Analysis
+# Student Performance Analysis
 
-Project Overview
+## Project Overview
+This project analyzes student academic performance using Python to identify patterns and understand factors affecting students' results.
 
-This project analyses student academic performance using Python.
+## Objectives
+- Analyze student performance.
+- Identify important patterns in academic results.
+- Explore relationships between different factors.
+- Generate meaningful insights.
 
-Tools & Technologies
-
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-Analysis Performed
+## Methodology
+1. Data Loading
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Insights Generation
 
-- Dataset exploration
-- Average marks calculation
-- Subject-wise performance visualization
-- Pass and fail student analysis
-- Top 10 student identification
+## Key Learning Outcomes
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis.
+- Python programming.
+- Data visualization and interpretation.
 
-Dataset
-
-UCI Student Performance Dataset.
-
-Learning Outcome
-
-Learned data cleaning basics, data analysis, calculations, and data visualization using Python.
-
-Project Status: Completed
+## Conclusion
+This project helped analyze student performance and discover meaningful patterns using Python. It improved my practical knowledge of data analysis, visualization, and extracting insights from datasets.

@@ -48,7 +48,7 @@ This project helped explore student academic performance through data analysis a
 ## Project Visualizations
 
 ### 1. Student Dataset Preview
-![Dataset Preview]()
+![Dataset Preview](Screenshot 2026-11-22 220736.png)
 
 ### 2. Student Final Grade Distribution
 ![Grade Distribution]()

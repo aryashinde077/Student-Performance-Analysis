@@ -1,13 +1,14 @@
 # Student Performance Analysis
 
 ## Project Overview
-This project analyzes student academic performance using Python to identify patterns and understand factors affecting students results.
+This project analyzes student academic performance using Python. It explores student grades, study time, previous failures, and other factors to identify patterns and generate meaningful insights.
 
 ## Objectives
-- Analyze student performance.
-- Identify important patterns in academic results.
-- Explore relationships between different factors.
-- Generate meaningful insights.
+- Analyze student academic performance.
+- Calculate average, highest, and lowest grades.
+- Compare pass and fail students.
+- Identify relationships between student grades.
+- Visualize performance using graphs and charts.
 
 ## Tools & Technologies
 - Python
@@ -15,20 +16,31 @@ This project analyzes student academic performance using Python to identify patt
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
-## Methodology
-1. Data Loading
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Data Visualization
-5. Insights Generation
+## Dataset Information
+- Total Students: 395
+- Total Features: 33
+- Target Variables: G1, G2, G3
 
-## Key Learning Outcomes
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis.
-- Python programming.
-- Data visualization and interpretation.
+## Analysis & Visualizations
+1. Student Final Grade Distribution
+2. Pass vs Fail Students
+3. Average Marks by Subject
+4. Study Time vs Final Grade
+5. Correlation Heatmap
+6. Gender-wise Student Performance
+7. Previous Failures vs Final Grades
+8. Top 10 Students
+
+## Key Findings
+- Total students analyzed: 395.
+- Pass students: 265.
+- Fail students: 130.
+- Average final grade: 10.42.
+- Highest final grade: 20.
+- Lowest final grade: 0.
+- Students with fewer previous failures generally achieved higher average final grades.
 
 ## Conclusion
-This project helped analyze student performance and discover meaningful patterns using Python. It improved my practical knowledge of data analysis, visualization, and extracting insights from datasets.
+This project helped explore student academic performance through data analysis and visualization. It provided insights into grade distribution, study time, previous failures, and academic outcomes.

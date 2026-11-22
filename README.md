@@ -44,3 +44,17 @@ This project analyzes student academic performance using Python. It explores stu
 
 ## Conclusion
 This project helped explore student academic performance through data analysis and visualization. It provided insights into grade distribution, study time, previous failures, and academic outcomes.
+
+## Project Visualizations
+
+### 1. Student Dataset Preview
+![Dataset Preview]()
+
+### 2. Student Final Grade Distribution
+![Grade Distribution]()
+
+### 3. Pass vs Fail Students
+![Pass vs Fail]()
+
+### 4. Correlation Heatmap
+![Correlation Heatmap]()
